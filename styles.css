@@ -47,6 +47,7 @@ img {
 
 .hover-button:hover {
     background-color: #0056b3; /*devient bleu au survol */
+<<<<<<< HEAD
 }
 
 /* Styles por le formulaire */
@@ -88,4 +89,6 @@ img {
 
 .from-button:hover {
     background-color: #9b125f;
+=======
+>>>>>>> c063b75d87986dafe2e603606f5b7f6ed9ec8428
 }
