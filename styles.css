@@ -72,7 +72,7 @@ img {
 
 .signup-form input:focus {
     border-color: #C71585;
-    otline: none;
+    outline: none;
 }
 
 .form-button {
