@@ -6,7 +6,7 @@ body {
 
 .container {
     margin: 20px auto;
-    maw-width: 600px;
+    max-width: 600px;
     text-align: center;
     background: yellow;
     padding: 20px;
